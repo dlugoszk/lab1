@@ -3,4 +3,5 @@ Poprawka HotFix
 Linia 2
 Linia 3
 Funkcjonalnosc w branchu feature
+Koniec feature
 
